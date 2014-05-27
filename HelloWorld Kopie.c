@@ -16,5 +16,9 @@
 main()
 {
  printf(„Hello world-Test \n");
+<<<<<<< HEAD
 
+=======
+/*	"\n" - new line		*/
+>>>>>>> TestBranch
 }
