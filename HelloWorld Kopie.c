@@ -15,6 +15,6 @@
 
 main()
 {
- printf(„Hello world \n");
+ printf(„Hello world-Test \n");
 /*	"\n" - new line		*/
 }
